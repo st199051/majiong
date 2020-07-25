@@ -55,7 +55,7 @@ virtualenv==15.0.1
 visitor==0.1.2
 wcwidth==0.1.7
 web.py==0.38
-Werkzeug==0.11.5
+Werkzeug==0.15.3
 WTForms==2.1
 xattr==0.6.4
 xlrd==0.9.4
