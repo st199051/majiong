@@ -40,7 +40,7 @@ pytz==2013.7
 PyYAML==3.12
 qiniu==7.0.7
 redis==2.10.5
-requests==2.10.0
+requests==2.20.0
 scipy==0.13.0b1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
