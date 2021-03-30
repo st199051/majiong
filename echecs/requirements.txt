@@ -31,7 +31,7 @@ pexpect==4.2.1
 ptyprocess==0.5.1
 py==1.4.31
 py2app==0.7.3
-Pygments==2.2.0
+Pygments==2.7.4
 pykafka==2.6.0
 pyparsing==2.0.1
 pytest==2.9.2
